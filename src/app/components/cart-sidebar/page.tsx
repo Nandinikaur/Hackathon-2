@@ -1,10 +1,11 @@
 "use client"
 import React from "react";
+import Link from "next/link";
 import Image from "next/image";
 import Lock from "../assets/Group (3).png";
 import CutMark from "../assets/Vector (11).png";
-import Sofa from "../assets/Asgaard sofa 1.png";
-import Link from "next/link";
+import Sofa from "../assets/Asgaard_sofa_1.png";
+
 
 
 const CartSidebar = ({ closeSidebar }: { closeSidebar: () => void }) => {

@@ -5,17 +5,17 @@ import Link from 'next/link'
 import Sec1icon1 from "../assets/dashicons_arrow-down-alt2.png"
 import Image from 'next/image'
 import Sec2i1 from "../assets/Group 99.png"
-import Sec2i2 from "../assets/Asgaard sofa 1.png"
+import Sec2i2 from "../assets/Asgaard_sofa_1.png"
 import Sec2Star from "../assets/Group 88.png"
 import Sec2icon1 from "../assets/Vector (10).png"
 import Sec2icon2 from "../assets/akar-icons_linkedin-box-fill.png"
 import Sec2icon3 from "../assets/ant-design_twitter-circle-filled.png"
 import Sec2icon4 from "../assets/Vector (12).png"
-import Sec3i1 from "../assets/Group 107.png"
-import Sec4i1 from "../assets/Trenton modular sofa_3 1.png"
-import Sec4i2 from "../assets/Mask group (1).png"
-import Sec4i3 from "../assets/Mask group (2).png"
-import Sec4i4 from "../assets/Mask group (3).png"
+import Sec3i1 from "../assets/Group_107.png"
+import Sec4i1 from "../assets/Trenton_modular_sofa_31.png"
+import Sec4i2 from "../assets/Mask_group_(1).png"
+import Sec4i3 from "../assets/Mask_group_(2).png"
+import Sec4i4 from "../assets/Mask_group_(3).png"
 import Footer from '../footer/page'
 
 const SingleProduct = () => {
