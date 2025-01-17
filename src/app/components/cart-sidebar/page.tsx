@@ -61,8 +61,8 @@ const CartSidebar = ({ closeSidebar }: { closeSidebar: () => void }) => {
             </div>
         </div>
       </div>
-    );
-  };
+    )
+  }
   
-  export default CartSidebar;
+  export default CartSidebar
   
