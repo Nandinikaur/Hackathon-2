@@ -6,9 +6,12 @@ import Lock from "../assets/Group (3).png";
 import CutMark from "../assets/Vector (11).png";
 import Sofa from "../assets/Asgaard_sofa_1.png";
 
+interface CartSidebarProps {
+    closeSidebar: () => void;
+  }
+  
 
-
-const CartSidebar = ({ closeSidebar }: { closeSidebar: () => void }) => {
+const CartSidebar : React.FC<CartSidebarProps> = ({ closeSidebar }) => {
     return (
       <div className="flex flex-col justify-between px-[20px] py-[40px] w-[412px] h-[764px]  bg-[#ffffff]">
 
