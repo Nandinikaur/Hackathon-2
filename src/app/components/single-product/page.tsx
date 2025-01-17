@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from "react";
-import CartSidebar from "../cart-sidebar/page";
+import CartSidebar from "../cart-sidebar/cart-sidebar";
 import Link from 'next/link'
 import Sec1icon1 from "../assets/dashicons_arrow-down-alt2.png"
 import Image from 'next/image'
